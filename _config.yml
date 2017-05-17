@@ -4,7 +4,7 @@ email:       tan.agn@outlook.com
 author:      Norman Tan
 description: "A personal website for myself"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://normanntan.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
