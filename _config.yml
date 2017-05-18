@@ -2,7 +2,7 @@
 title:       Norman Tan
 email:       agnormantan@gmail.com
 author:      Norman Tan
-description: "A personal website for myself"
+description: ""
 baseurl:     ""
 url:         "http://normanntan.github.io"
 date_format: "%b %-d, %Y"
@@ -35,7 +35,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: normantan
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -48,10 +48,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: normanntan
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: normanntan
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -67,13 +67,13 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
@@ -101,13 +101,13 @@ text:
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    subject:  'Subject'
+    submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me.'
   og_locale: 'en_US'
 
 # Build settings
