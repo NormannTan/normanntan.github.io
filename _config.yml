@@ -8,10 +8,10 @@ url:         "http://normantan.me"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: rbh_uGjYRaN0U7pN3DRu9_bXSM-R9i-S-EwVd0qd03o
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-99493802-1
 google_tag_manager:
 # Bing services
 bing_verification:
