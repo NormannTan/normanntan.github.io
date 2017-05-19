@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Norman
+title: About Norman
 permalink: /about/
 tags: about
 ---
